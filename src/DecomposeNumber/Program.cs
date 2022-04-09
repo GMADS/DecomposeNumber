@@ -44,14 +44,16 @@ namespace DecomposeNumber
             Console.WriteLine("Números divisores:");
             response.DividerNumbers?.ForEach(delegate (int number)
             {
-                Console.WriteLine($"{number}");
+                Console.Write($"{number} - ");
             });
 
             Console.WriteLine();
+            Console.WriteLine();
+
             Console.WriteLine("Divisores Primos:");
             response.DividerNumbersPrime?.ForEach(delegate (int number)
             {
-                Console.WriteLine($"{number}");
+                Console.Write($"{number} - ");
             });        
         }
     }
