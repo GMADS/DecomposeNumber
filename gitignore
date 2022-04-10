@@ -1,2 +1,2 @@
-.src/DecomposeNumber/bin/
-.src/DecomposeNumber.Test/bin/
+**/src/DecomposeNumber/bin/
+**/src/DecomposeNumber.Test/bin/
