@@ -1,0 +1,10 @@
+C:\Users\Guilherme Miguel\Desktop\DecomposeNumber\src\DecomposeNumberService\bin\Debug\netcoreapp3.1\DecomposeNumber.Services.deps.json
+C:\Users\Guilherme Miguel\Desktop\DecomposeNumber\src\DecomposeNumberService\bin\Debug\netcoreapp3.1\DecomposeNumber.Services.dll
+C:\Users\Guilherme Miguel\Desktop\DecomposeNumber\src\DecomposeNumberService\bin\Debug\netcoreapp3.1\DecomposeNumber.Services.pdb
+C:\Users\Guilherme Miguel\Desktop\DecomposeNumber\src\DecomposeNumberService\obj\Debug\netcoreapp3.1\DecomposeNumber.Services.csproj.AssemblyReference.cache
+C:\Users\Guilherme Miguel\Desktop\DecomposeNumber\src\DecomposeNumberService\obj\Debug\netcoreapp3.1\DecomposeNumber.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilherme Miguel\Desktop\DecomposeNumber\src\DecomposeNumberService\obj\Debug\netcoreapp3.1\DecomposeNumber.Services.AssemblyInfoInputs.cache
+C:\Users\Guilherme Miguel\Desktop\DecomposeNumber\src\DecomposeNumberService\obj\Debug\netcoreapp3.1\DecomposeNumber.Services.AssemblyInfo.cs
+C:\Users\Guilherme Miguel\Desktop\DecomposeNumber\src\DecomposeNumberService\obj\Debug\netcoreapp3.1\DecomposeNumber.Services.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme Miguel\Desktop\DecomposeNumber\src\DecomposeNumberService\obj\Debug\netcoreapp3.1\DecomposeNumber.Services.dll
+C:\Users\Guilherme Miguel\Desktop\DecomposeNumber\src\DecomposeNumberService\obj\Debug\netcoreapp3.1\DecomposeNumber.Services.pdb
